@@ -1,9 +1,9 @@
 const leaderboardData = [
-  { username: "Kcili", wager: 0000 },
-  { username: "Crog", wager: 0000 },
-  { username: "Breeze", wager: 0000 },
-  { username: "Ace", wager: 0000 },
-  { username: "Rust", wager: 0000 }
+  { username: "Kcili", wager: 0 },
+  { username: "Crog", wager: 0 },
+  { username: "Breeze", wager: 0 },
+  { username: "Ace", wager: 0 },
+  { username: "Rust", wager: 0 }
 ];
 
 export default function Leaderboard() {
