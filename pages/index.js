@@ -1,17 +1,17 @@
 const leaderboardData = [
-  { username: "simplyjessie", wager: 5298 },
-  { username: "illuminence", wager: 4796 },
-  { username: "YUNGTHOT", wager: 2103 },
-  { username: "DWLLL", wager: 1799 },
-  { username: "GoofyGoober", wager: 1484 }
+  { username: "Kcili", wager: $???? },
+  { username: "Crog", wager: $???? },
+  { username: "Breeze", wager: $???? },
+  { username: "Ace", wager: $???? },
+  { username: "Rust", wager: $???? }
 ];
 
 export default function Leaderboard() {
   return (
     <main className="flex items-center justify-center h-full text-center px-4">
       <div>
-        <h1 className="text-4xl font-bold mb-2">🔥 WAGER LEADERBOARD 🔥</h1>
-        <p className="mb-8 text-lg">11th June to 30th June</p>
+        <h1 className="text-4xl font-bold mb-2">🔥 LEADERBOARD 🔥</h1>
+        <p className="mb-8 text-lg">1st July to 31st July</p>
         <div className="bg-black bg-opacity-60 rounded-lg p-4 max-w-md mx-auto">
           <table className="w-full text-left">
             <thead>
