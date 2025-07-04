@@ -2,7 +2,7 @@ const leaderboardData = [
   { username: "Crog", wager: 2661 },
   { username: "Saturce", wager: 1366 },
   { username: "Breeze", wager: 428 },
-  { username: "Ace", wager: 0 },
+  { username: "Ace", wager: 50 },
   { username: "Rust", wager: 0 }
 ];
 
